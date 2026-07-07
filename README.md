@@ -2,7 +2,9 @@
 
 My personal portfolio website — a fully responsive, animated single-page site built with plain HTML, CSS, and JavaScript, powered by GSAP and ScrollTrigger for scroll-based motion.
 
-**Live site:** https://tan-ishk007.github.io/portfolio
+**Live site:** https://tan-ishk007.github.io/portfolio/
+
+> This is the current, animated version of my portfolio. The original, simpler HTML/CSS-only version is still live at [v1-portfolio](https://tan-ishk007.github.io/v1-portfolio/).
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
